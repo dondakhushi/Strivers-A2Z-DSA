@@ -28,6 +28,7 @@ public class Print_the_matrix_in_spiral_manner {
                 System.out.println(matrix[i][left]);
                 left++;
             }
+            
         }
     }
 }
